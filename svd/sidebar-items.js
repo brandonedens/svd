@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Access",""]],"struct":[["BitRange",""],["Defaults","Register default properties"],["Device",""],["Field",""],["Interrupt",""],["Peripheral",""],["Register",""]]});
